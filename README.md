@@ -1,4 +1,4 @@
-# Angular 2  Boilerplate
+# Angular 2  Boilerplate Template
 
 ## Description
 Angular 2 starter project using TypeScript
@@ -8,7 +8,7 @@ You need to install npm and Typescript in your machine prior executing this proj
 
 1: Clone repo
 ```
-git clone https://github.com/loiane/angular-2-boilerplate.git
+git clone https://github.com/ale-php/base-angular2-with-sass.git
 ```
 2: Install packages
 ```
